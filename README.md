@@ -2,15 +2,17 @@
 
 <p align="center"><img src="https://img.shields.io/badge/STATUS-CONCLU%C3%8DDO-green"/></p>
 
-![Imagem da tela do Alura Books - Versão web](https://user-images.githubusercontent.com/109491188/223489340-a1355269-db22-417a-9c77-bf13c602745d.png)
+<div align="center">
 
+![Imagem da tela do Alura Books - Versão web](https://user-images.githubusercontent.com/109491188/223492986-dc5e3f9f-a086-4436-95a8-ef58f578403c.png)
+
+</div>
 
 <div align="center">
 
 ![Imagem da tela do Alura Books - Versão mobile](https://user-images.githubusercontent.com/109491188/223490031-14f159a0-54f9-479e-82e6-87c1ce1d7883.png)
 
 </div>
-
 
 <h2>📝 Descrição do projeto</h2>
 
